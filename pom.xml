@@ -6,7 +6,7 @@
     <groupId>com.shiro</groupId>
     <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>shiro_spb</name>
     <description>shiro与springboot整合</description>
